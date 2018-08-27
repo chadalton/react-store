@@ -1,5 +1,5 @@
-# react-store
-React store application using Mongoose/Mongo DB.
+# Description
+React store application using Node with Mongoose/Mongo DB.
 
 # API Features
 Currently Supports the following end points:
